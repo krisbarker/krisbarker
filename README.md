@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krisbarker
 - 👀 I’m interested in python and AWS
 - 🌱 I’m currently learning pandas and lambdas!
-- 💞️ I’m looking to collaborate on ... not really a strong enough programme to do that yet
+- 💞️ I’m looking to collaborate on ... not really a strong enough programmer to do that yet
 - 📫 How to reach me ... kris@thisworldisbig.co.uk
 
 <!---
