@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisbarker
-- 👀 I’m interested in python and AWS
-- 🌱 I’m currently learning pandas and lambdas!
+- 👀 I’m interested in python, pandas and AWS
+- 🌱 I’m currently learning Javascript and React!
 - 💞️ I’m looking to collaborate on ... work on data-type projects 
 - 📫 How to reach me ... kris@thisworldisbig.co.uk
 
